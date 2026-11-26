@@ -1,0 +1,2525 @@
+                              PERIYAR MANIAMMAI INSTITUTE OF
+                                   SCIENCE & TECHNOLOGY
+                                Periyar Nagar, Vallam, Thanjavur - 613403
+                                           Tamil Nadu, India.
+
+
+
+Periyar Maniammai Institute of Science & Technology is committed to imparting
+quality education, emphasizing the integration of proficiency and human values,
+along with the ongoing enhancement of educational quality.
+
+Vision Statement:
+
+To be a university of global dynamism with excellence in knowledge and
+innovation, ensuring social responsibility for creating an egalitarian society.
+
+Mission:
+
+    Offering well-balanced programs with scholarly faculty and state-of-the-art
+       facilities to impart a high level of knowledge.
+
+    Providing student-centered education and fostering their growth in critical
+       thinking, creativity, entrepreneurship, problem-solving, and collaborative
+       work.
+
+    Engaging in progressive and meaningful research with a focus on sustainable
+       development.
+
+    Empowering students to acquire the skills necessary for global competencies.
+
+    Instilling universal values, self-respect, gender equality, dignity, and ethics
+
+
+
+
+                                          1
+Quality Policy:
+
+To be a leading institution of excellence in education and research, providing
+professional competence to meet academic, scholastic, and societal needs.
+
+Objectives:
+
+    To provide value-based education with social responsibility and ethics to both
+      urban and underserved rural students.
+
+    To achieve excellence in education and empower students to attain global
+      competence.
+
+    To promote a culture of research and innovation in young minds, fostering
+      academic excellence, and encouraging lifelong learning.
+
+    To engage in specialized areas with a proven ability to make distinctive
+      contributions to the objectives of the higher education system across diverse
+      disciplines.
+
+    To engage in extramural studies, extension programmes, and field outreach
+      activities to contribute to the development of society.
+
+
+
+
+                                   The Motto:
+
+                     THINK – INNOVATE – TRANSFORM
+
+
+
+
+                                         2
+  PERIYAR MANIAMMAI INSTITUTE OF SCIENCE & TECHNOLOGY
+                              REGULATIONS: R-2024
+                  CHOICE BASED CREDIT SYSTEM (CBCS)
+                       (Common to all B.Tech. Programmes)
+                            Full -Time Programmes
+               (8 Semesters / 6 Semesters Lateral Entry Scheme)
+               (with effect from the academic year 2024 - 2025)
+
+R1.     DEFINITIONS AND NOMENCLATURE
+
+   i.   “Institute” means Periyar Maniammai Institute of Science & Technology
+        (Institute Deemed to be University).
+  ii.   “Degree” means that academic award conferred upon a student on successful
+        completion of a programme designed to achieve the defined attributes. It is
+        referred to as an Undergraduate (UG) Degree, that is B.Tech. Degree.
+ iii.   “Discipline” means branch of a B.Tech. Degree Programme, like Civil
+        Engineering, Electrical and Electronics Engineering, etc.
+ iv.    “Programme” means cohesive arrangement of courses, co-curricular and
+        extracurricular activities to accomplish predetermined objectives leading to
+        awarding of a degree.
+  v.    “Course” means a theory / practical / theory integrated with practical subject
+        studied in a semester, like Mathematics, Coding Techniques, Data Structures,
+        etc.
+ vi.    “Dean (Academic Courses)” means the authority of the Institution who is
+        responsible for all the academic activities of the departments for
+        implementation of relevant rules and regulations.
+vii.    “Dean (FET)” means Dean of Faculty of Engineering and Technology.
+viii.   “Controller of Examinations” means the authority of the Institution who is
+        responsible for all the activities of the examinations.
+ ix.    “HoD” means the Head of the Department concerned.
+
+
+
+                                            3
+   x.    “MoU” means the agreement signed between two parties either in India or
+         Abroad to improve the academic standards.
+   xi.   “Chairperson, BoS” means Chairperson of Board of Studies of each
+         department.
+  xii.   “Department Advisory Committee" means the committee constituted by
+         the Institution for approving academic matters of the department.
+ xiii.   “Honours” degree means award of additional qualification to well
+         performing UG students on earning the specified additional credits and
+         satisfying the relevant degree award conditions.
+ xiv.    “Specialization” means award of additional qualification to the students on
+         earning the specified additional credits from the courses offered in the same
+         department.
+  xv.    “Minor” degree means award of additional qualification to the students on
+         earning the specified additional credits from the courses offered in other
+         departments.
+ xvi.    “E-Resources” means learning materials saved electronically in online
+         storage or cloud platform, which shall be accessed from anywhere and
+         anytime online or shall be accessed offline by downloading the relevant
+         materials.
+xvii.    “MOOCs” means Massive Open Online Courses available at both
+         introductory and advanced levels accessible from “E-Resources”.
+xviii.   “AICTE” means All India Council for Technical Education established at
+         New Delhi.
+ xix.    “UGC” means University Grants Commission established at New Delhi.
+  xx.    “Academic Council” means the approval granting authority for all academic
+         related activities like framing of academic policies, approval of regulations,
+         courses, syllabus etc.
+ xxi.    “Bonafide Student” means one who has enrolled for at least one course in
+         the curriculum as per regulations and has paid the tuition fee for the same.
+
+
+
+                                            4
+R2.       ADMISSION PROCEDURE
+
+R2.1      Regular Admission
+
+          The students seeking admission to the Bachelor of Technology programme
+          shall require satisfying eligibility criteria as prescribed by the Institution
+          from time to time.
+
+R.2.1.1   Candidates for admission to the first year of the B.Tech. Degree
+          Programmes shall be required to have passed the Higher Secondary
+          Examination (10 + 2 Academic Stream) with Mathematics, Physics and
+          Chemistry as three of the four subjects of study under Part III or any
+          Examination recognized as equivalent.
+
+                                   (OR)
+
+          Should have passed the Higher Secondary Examination of Vocational
+          stream (Vocational groups in Engineering / Technology).
+
+R2.2      Lateral Entry Admission
+
+R2.2.1    The candidates who possess the Diploma in Engineering / Technology
+          awarded by the State Board of Technical Education, Tamil Nadu, or its
+          equivalent are eligible to apply for lateral entry admission to the third
+          semester of B.Tech. Degree Programme as per the norms of the Institution
+          from time to time.
+
+R2.2.2    The candidates who possess the Degree in Science (10+2+3 stream) with
+          Mathematics as a subject at the B.Sc. level are eligible to apply for lateral
+          entry admission to the third semester of B.Tech. Degree Programme.
+
+          However, such candidates shall undergo additional engineering courses in
+          the third and fourth semesters as prescribed by the concerned department.
+
+
+
+
+                                           5
+R2.3     Transfer of Candidates from Other Institutions
+
+         A candidate can join from any other University / Institution in the
+         beginning of academic year, subject to the recommendations of
+         Equivalence Committee and approval of Dean (Academic Courses) of the
+         Institution.
+
+R2.3.1   Such candidates should not have any standing arrears at the time of
+         admission and they should undergo additional courses, if necessary, as
+         recommended by the Equivalence Committee. The candidate should
+         submit the Transfer Certificate (TC) obtained from the Institution last
+         studied.
+
+R2.4     The eligibility criteria such as discipline, minimum marks required,
+         number of attempts, the age limit, and physical fitness shall be as
+         described by the Academic Council of the Institution from time to time.
+
+R2.5     If, at any time after admission, it is found that a candidate has not fulfilled
+         any of the requirements stipulated by the Institution, the Dean (Academic
+         Courses) may revoke the admission of the candidate and report the matter
+         to the Registrar for further action.
+
+R3.      PROGRAMMES OF STUDY
+
+R3.1     A student may be given admission to any one of the programmes of study
+         (as given in the following table) approved by AICTE and offered at the
+         Institution.
+
+
+         Sl. No.                              UG Programmes
+            1.      B.Tech. Aerospace Engineering
+            2.      B.Tech. Biotechnology
+
+            3.      B.Tech. Computer Science and Engineering
+
+
+
+
+                                          6
+         Sl. No.                             UG Programmes
+                    B.Tech. Computer Science and Engineering
+            4.
+                    (Artificial Intelligence and Machine Learning)
+                    B.Tech. Computer Science and Engineering
+            5.
+                    (Cyber Security)
+            6.      B.Tech. Electronics and Communication Engineering
+
+            7.      B.Tech. Electrical and Electronics Engineering
+            8.      B.Tech. Mechanical Engineering
+
+            9.      B.Tech. Civil Engineering
+           10.      B.Tech. Artificial Intelligence and Data Science
+
+
+R3.2     Change of Programme of Study
+
+R3.2.1   Students can transfer from one B.Tech. programme to another
+         programme of study only after successfully completing the first year,
+         which includes the first two semesters.
+
+R3.2.2   Eligibility for transfer to a specific programme is limited to students who
+         meet the admission criteria for the programme of study and depends on
+         the availability of vacant seats.
+
+R3.2.3   Students intending to change their programme must apply to the Dean
+         (Academic Courses) at the beginning of second semester of the first year
+         of study before the specified closing date.
+
+R3.2.4   Students intending to change their programme of study may indicate up
+         to three preferences of programmes in the order of priority for their
+         desired change, as the decision will be based strictly on merit and the
+         availability of vacancies.
+
+R3.2.5   Programme changes will be granted based solely on the merit of eligible
+         applicants. The CGPA of students at the end of the second semester will
+         determine the rank order for applicants requesting a programme change.
+
+
+
+                                         7
+          The percentage of marks obtained in HSC / Diploma, and PMIST
+          Entrance Examination will also be considered in case of a tie.
+
+R3.2.6    Approved programme changes for intended students, as per the Clause
+          R3.2 will take effect from the third semester. No further programme
+          changes will be allowed thereafter.
+
+R3.2.7    All programme changes allowed at this stage are final and binding on the
+          applicants. Students cannot refuse the offered programme change under
+          any circumstances.
+
+R4.       STRUCTURE OF THE PROGRAMME
+
+R4.1      Categorization of Courses
+
+Every B.Tech. Programme shall have a curriculum with syllabus comprising of
+Theory, Theory integrated with Practical, Practical integrated with Theory, and
+Practical courses with well-defined Programme Educational Objectives (PEOs),
+Programme Specific Outcomes (PSOs), and Programme Outcomes (POs) as per
+Outcome Based Education (OBE). The content of each course is designed based on
+the Course Outcomes (COs). The programmes shall cover the following category of
+courses as per the guidelines of AICTE / UGC.
+
+a. Foundation Courses
+
+   Humanities and Social Sciences including Management Courses include
+   Technical English, Engineering Ethics and Human Values, Communicationskills
+   and Management courses.
+
+   Basic Science Courses include Mathematics, Physics, Chemistry,Biology
+   for Engineers, Environmental Sciences, etc.
+
+   Engineering Science Courses include Engineering Practices, Engineering
+   Graphics, Basics of Electrical / Electronics / Mechanical / Civil / Computer
+   Engineering, Instrumentation etc.
+
+
+
+                                        8
+b. Professional Core Courses include the core courses relevant to the chosen
+   specialization / branch.
+
+c. Professional Elective Courses include the elective courses relevant to the
+   chosen specialization / branch.
+
+d. Open Elective Courses shall provide an opportunity to study a course from any
+   discipline that includes the courses relevant to the chosen specialization, the
+   courses that enhance soft and managerial skills, the courses a student can choose
+   from the curriculum of other B.Tech. programmes and the courses offered by the
+   other departments such as Indian Knowledge System,Economics for Engineers,
+   Financial Engineering etc.
+
+e. Employability      Enhancement      Courses      include   Internship,      Career
+   Development Skills, Creative and Innovative Projects, Coding Techniques,
+   Seminar, Professional Practices, Value Added Courses, Case Study, and
+   Industrial Training.
+
+f. Online Courses allow the students to habituate independent learning through
+   Massive Open Online Courses (MOOCs) restricted to NPTEL / SWAYAM /
+   other online courses offered by premier institutions.
+
+g. Audit Courses expose the students to Unnat Bharath Abhiyan, Constitution of
+   India, Essence of Indian Traditional Knowledge, Yoga, English for Research
+   Paper Writing, Pedagogy Studies, Stress Management and Personality
+   Development through Life Enlightenment Skills. This category of courses is
+   mandatory non-credit courses for the students.
+
+There should be enough number of elective courses available for students to choose
+from. The combination of various courses should be designed in a way that, by the
+end of the programme, students are not only well- prepared for their specific
+professional fields but also have developed a sense of social consciousness.
+
+
+
+
+                                         9
+The credit requirements for each category of courses are outlined in Table 1.
+
+               Table 1: Credit Requirements for each category of Courses
+
+       Sl. No.                    Category of Courses                           Credits
+                 Foundation Courses
+                 (Humanities    and Social Sciences      including
+          1.
+                 Management Courses, Basic Science and Engineering                60
+                 Science Courses)
+          2.     Professional Core Courses                                        60
+
+          3.     Professional Elective Courses                                    18
+                 Open Elective Courses
+                 (Soft and Managerial Skills, Core and Elective
+          4.
+                 Courses offered by other Departments, Indian                      9
+                 Knowledge System, Economics and Finance)
+                 Employability Enhancement Courses
+                 (Professional Practices, Value-added, Skill
+          5.     Development Courses including Community
+                 Engagement and Social Responsibility, Internship, and            27
+                 Projects)
+          6.     Online Courses                                                    6
+                 Courses lead to Specialization / Minor / Honours
+          7.                                                                      20
+                 Degree
+          8.     Audit Courses                                                    ---
+
+
+R4.2       Every B.Tech. Degree Programme will have a balanced curriculum as per
+           AICTE / UGC guidelines and syllabus for the courses with required
+           outcomes approved by the Academic Council.
+
+R4.3       The curriculum of the first and second semesters shall be common for all
+           the B.Tech. Degree Programmes.
+
+R4.4       The curriculum of any B.Tech. Degree Programme is designed to include
+           a maximum of 180 credits for the award of the degree. If a student opted
+           for specialization, minor, or honours degree, he / she must complete
+
+
+
+                                          10
+            additional courses to earn an additional 20 credits for the award of
+            degree.
+
+R4.5        The curriculum of a semester normally shall have a blend of 6 lecture-
+            based courses and upto 3 laboratory courses except for the pre - final and
+            final semesters. In addition, Audit Course(s) may be included. Each
+            course may have credits assigned as per Clause R4.6. However, the total
+            number of courses per semester shall not exceed 10, including Audit
+            Courses (11 courses in case of Specialization / Minor / Honours degree).
+            Pre-final semester shall have 6 lecture courses, a Project (Phase 1) and
+            laboratory courses not exceeding 2. The final semester shall have an
+            online course and a Project (Phase 2).
+
+R4.6        Credit Assignment
+
+Each course is assigned a certain number of credits based on the details provided in
+Table 2.
+
+                                 Table 2: Credit Assignment
+
+                           Contact Period per Week                         Credit
+           One Lecture Period                                                 1
+           One Tutorial Period                                                1
+           Two Practical / Laboratory Periods                                 1
+           Every two weeks of Industrial Training / Internship                1
+
+The contact periods per week for laboratory courses can only be in multiples of 2.
+
+R4.7        In special cases such as Specialization / Minor / Honours degree
+            requirement, or doing an additional elective course, students may be
+            permitted to take seven lecture-based and four laboratory-based courses
+            subject to the recommendation of the Mentor and approval of the Head
+            of the Department. However, the maximum number of credits registered
+            in any semester shall not exceed 30.
+
+
+
+
+                                          11
+R4.8     A student shall register for additional courses by paying the prescribed
+         fee.
+
+R4.9     Personality and Character Development
+
+         All students shall enroll, on admission, in any one of the personality and
+         character development programmes (NCC / NSS / NSO / YRC / RRC)
+         and undergo training for about 80 hours and attend a camp of about seven
+         days. The training shall include classes on first aid, health and hygiene
+         awareness.
+
+R4.9.1   National Cadet Corps (NCC) will have about 20 parades.
+
+R4.9.2   National Service Scheme (NSS) will have social service activities in and
+         around the Institution. The activities will include practical projects on
+         recycling and reusing of biodegradable and dry / solid waste towards
+         sustainable development.
+
+R4.9.3   National Sports Organization (NSO) will have activities related to
+         sports, games, drills, yoga and any physical exercises.
+
+R4.9.4   Youth Red Cross (YRC) will have activities related to health and
+         hygiene awareness, and social services in and around the Institution
+
+R4.9.5   Red Ribbon Club (RRC) will have activities related to social services
+         such as health awareness, blood donation camps etc., in and around the
+         Institution.
+
+R4.9.6   While the training activities will normally be during weekends, the camp
+         will normally be during the vacation period.
+
+R4.9.7   Every student shall put in a minimum of 75 percent attendance in the
+         training and attend the camp compulsorily. The training and camp shall
+         be completed during the first year of the programme. However, for valid
+         reasons, the Dean (Academic Courses) may permit a student to complete
+         this requirement in the second year.
+
+
+
+                                       12
+R4.10      Mandatory Induction Programme
+
+           All first year students should undergo three weeks’ mandatory induction
+           programme at the beginning of the first semester. The programme
+           comprises physical activity, creative arts, universal human values,
+           proficiency modules, lectures by eminent people, visits to local areas and
+           familiarization to department / branch & innovations.
+
+R4.11     Assigning Course Codes
+
+                                       Category of                             Course
+     UG / PG            Regulation       Courses /         Classification    Sequence
+    1 character        2 characters    Programmes           1 character       Number
+                                       2 characters                         2 characters
+
+The course code consists of 8 characters, and it is divided into 5 parts.
+
+Part 1:    One character (Alphabet) – U or P represents UG or PG programme.
+
+Part 2:    Two characters (Numerals) represent Regulations.
+
+Part 3:    Two characters (Alphabets) represent the Category of Courses /
+           Professional Core Courses, Professional Elective Courses, Open Elective
+           Courses, Online Courses, and Specialization Courses within the
+           Department.
+
+           Employability Enhancement Courses (EM): Year and Semester-wise
+           programme specific courses.
+
+           General Engineering Courses (GE): Year and Semester-wise
+           foundation courses like Basic Science Courses, and Engineering Science
+           Courses.
+
+           Value Added Courses (VA): Courses related to programme specific,
+           domain specific, skill based, and courses related to thrust areas and
+           industrial requirements.
+
+
+
+
+                                          13
+          Audit Courses (AU): Non-credit courses - Courses related to general
+          skills, life skills, language skills, visionary skills, understanding historical
+          events, understanding the successful stories of Philanthropists, Indian
+          Constitution, Environmental Science etc.
+
+Part 4:   One character (single numeral) – 1 to 9 represents the classification of the
+          courses related to the specific programme.
+
+Classification Code
+                                                   Purpose
+  (6th character)
+        1-4         Year of Study
+          6            Courses related to Specialization within the Department
+          7            Open Elective Courses
+          8            Online Courses
+          9            Elective Courses related to the specific programme
+
+
+Part 5:   Two characters (Numerals) represent the sequence number of the courses
+          in each category, further, to represent the courses to beoffered in the odd
+          and even semesters.
+
+          Sequence 01 to 49 represents courses in the odd semester.
+
+          Sequence 51 to 99 represents courses in the even semester.
+
+          The codes for the Value Added and Audit courses will be general, applied
+          to all programmes offered at the Institution. Although there are only four
+          segments in the codes assigned to these courses, they consist of eight
+          characters in total. Part 4 andPart 5 are combined to create a sequential
+          number ranging from 001 to 999.
+
+          The two alphabetical characters (Part 3) used to represent various
+          programmes and categories of courses offered in all UG degree
+          programmes are listed below in Table 3.
+
+
+
+
+                                          14
+Table 3: Two Character Representation of Category of Programme / Courses
+
+         Sl. No. Name of the Programme / Course                       Code
+           1    English                                                EN
+
+           2    Mathematics                                            MA
+
+           3    Physics                                                PH
+
+           4    Chemistry                                              CH
+
+           5    General Engineering / Management Studies               GE
+
+           6    B.Tech. Aerospace Engineering                          AS
+
+           7    B.Tech. Biotechnology                                  BT
+
+           8    B.Tech. Civil Engineering                              CE
+
+           9    B.Tech. Computer Science and Engineering                CS
+                B.Tech. Computer Science and Engineering
+          10                                                            CI
+                (ArtificialIntelligence and Machine Learning)
+                B.Tech. Computer Science and Engineering
+          11                                                           CC
+                (CyberSecurity)
+          12    B.Tech. Artificial Intelligence and Data science       AD
+
+          13    B.Tech. Electrical and Electronics Engineering          EE
+
+          14    B.Tech. Electronics and Communication Engineering EC
+
+          15    B.Tech. Mechanical Engineering                         ME
+
+          16    Employability Enhancement Courses                      EM
+
+          17    Value Added Courses                                    VA
+
+          18    Audit Courses                                          AU
+
+
+R.4.12     Medium of Instruction
+
+The medium of instruction is English for all courses, seminar presentations and
+project / thesis / dissertation reports. However, bilingual language policy (English
+and Tamil) shall be adopted wherever applicable.
+
+
+
+
+                                         15
+R4.13     Industrial Training / Internship
+
+R4.13.1   The students may undergo Industrial training / Internship for a period (a
+          minimum of 6 weeks in one or more slots) as specified in the Curriculum
+          during summer / winter vacation. In this case, the training must be
+          undergone continuously in the same organization for the entire period of
+          each slot (a slot equals 2 weeks). The students may undergo Internship at
+          a Research Organization / University / Industry (after due approval from
+          the Head of the Department / Dean (FET)). The credits are distributed in
+          Table 4 as follows:
+
+                    Table 4: Training Period and Assigned Credits
+
+                             Duration of
+                                                                   Credits
+                Industrial Training / Internship
+                                2 weeks                                 1
+                                4 weeks                                 2
+                             >= 6 weeks                                 3
+
+R4.13.2   The student is expected to submit a report and it shall be evaluated by a
+          team of faculty members nominated by the Head of the Department.
+          Based on the recommendations, the student will be awarded credits, and
+          the results will be sent to the Controller of Examinations for further
+          processing.
+
+R4.14     Industrial Visit
+
+          Every student is expected to undergo one industrial visit every year
+          starting from the second year of the programme with the approval of the
+          Head of the Department / Dean (FET). The Head of the Department shall
+          ensure that necessary arrangements are made in this regard.
+
+R4.15     Semester Long Project Work / Industrial Project / Internship
+
+R4.15.1   In the final semester, students shall undertake a semester long project
+          work in their own discipline to obtain hands-on experience.
+
+
+
+                                          16
+R4.15.2   Project work may be assigned to a single student or to a group of students,
+          not exceeding 3 per group with a guide from the same department.
+          However, if the project is of interdisciplinary nature, then students from
+          different programmes are permitted to form a group and the guide can be
+          from other departments also.
+
+R4.15.3   Students are permitted to undertake a semester long industrial project or
+          semester long internship in an industry / research organization in lieu of
+          the final semester project work, provided the domain of such projects or
+          internships come under the same discipline and approved by Department
+          Advisory Committee and the industry has no objection in submitting the
+          work carried out as a report. This industrial project or internship is apart
+          from the summer industrial training or summer internship, if any.
+
+R4.15.4   If the outcome of the project work is the development of a finished
+          product then it may lead to a start-up activity.
+
+R4.15.5   The students have to submit a project report or internship report or start-
+          up report on or before the last working day of the semester and the
+          assessment of the same is detailed in Clause R13.8.
+
+R4.16     Value Added Courses
+
+R4.16.1   Students may optionally undergo Value Added Courses and the credits
+          earned through the Value-Added Courses shall be over and above the
+          total credit requirement prescribed in the curriculum for the award of the
+          degree. Courses with two / three credits shall be offered by a Department
+          with the prior approval from the Dean (Academic Courses).
+
+R4.16.2   The details of the syllabus, time table and faculty may be sent to the
+          Office      of the Dean (Academic Courses) after approval from the
+          Department Advisory Committee concerned.
+
+
+
+
+                                         17
+R4.16.3   Students shall be allowed to take these courses offered in other
+          Departments also, but with the permission of the Head of the Department
+          of student and Head of the department offering the course.
+
+R4.16.4   Courses once approved shall be made available in the Institution’s
+          website with information to Dean (Academic Courses).
+
+R4.16.5   The students shall register for additional value-added courses by paying
+          the prescribed fee.
+
+R4.17     Off Campus Courses and Transfer of Credits
+
+R4.17.1   Students are permitted to optionally enroll and study a maximum of three
+          off-campus courses in physical / online / hybrid mode under each UG
+          programme with the approval of the Head of the Department, Dean (FET)
+          and Dean (Academic Courses) as per the Regulations.
+
+          The successful completion of these courses through any of the above
+          modes shall be considered in lieu of professional elective / open elective
+          courses listed in the curriculum as approved by Department Advisory
+          Committee.
+
+R4.17.2   Students are permitted to optionally enroll and study online courses
+          through SWAYAM / NPTEL / online courses offered by premier
+          Institutions. The credit transfer is to be done based on the marks and
+          certificate provided by them. The number of credits and transfer of credits
+          are based on the procedure explained in Table 5 and the Mapping of the
+          marks with the grades is explained in Table 6.
+
+          The mapping of marks with grades is applicable, only if the student
+          passes the course as per the guidelines of the institutions offering the
+          courses. The credits earned by the candidate shall be added if the same
+          courses offered at different levels and at different times.
+
+
+
+
+                                         18
+            Table 5: Duration of the Course and Number of Credits
+
+                      Sl. No.      No. of Weeks        Credits
+                         1.          4 weeks             1
+                         2.          8 weeks             2
+                         3.        >= 12 weeks           3
+
+  Table 6: Mapping of Marks Scored in Online Course and Letter Grades
+
+                      Sl. No.      Letter Grade         Marks
+                         1.              O             90 - 100
+                         2.             A+              80 - 89
+                         3.              A              70 - 79
+                         4.             B+              60 - 69
+                         5.              B              50 - 59
+                         6.              C              40 - 49
+
+
+R4.17.3   Students are also permitted to enroll and undergo courses in online mode
+          at Universities in India / Abroad. Further, the students are permitted to
+          study courses of a particular semester in a University / Institution based
+          on MoU. The marks / credits earned by the student shall be transferred
+          based on the decision of the Credit Equivalence Committee constituted
+          by Dean (Academic Courses) and approved by the Institution.
+
+R4.18     B.Tech. (Honours) / B.Tech. Minor Degree Programme
+
+          B.Tech. (Honours) and B.Tech. (Minor with Specialization) in another
+          Discipline will be optional for students and the students shall be permitted
+          to select any one of them only.
+
+B.Tech. (Honours) Degree Programme
+
+          Honours is a specialized degree that focuses on the area of the students’
+          interest,   which     encourages    advanced    levels    of   study    and
+          multidisciplinary learning. Honours qualification enhances professional
+          development and facilitates gaining recognition at the time of graduation
+
+
+
+
+                                         19
+          for advanced and distinguished work contributed by the undergraduate
+          students.
+
+R4.18.1   Eligibility Criteria for Registration B.Tech. (Honours)
+
+          Every student at the Institution intending to register for the “Honours”
+          qualification shall fulfill the following academic requirements:
+
+  a.      Registration to “Honours” qualification shall start from third semester
+          onwards.
+
+  b.       Students should have passed all the courses in the first and second
+           semesters in first attempt and have obtained CGPA >= 8.0.
+
+  c.      The lateral entry students / B.Sc. graduates shall be permitted to register
+           for the courses from Semester IV onwards provided the students have
+           earned a minimum GPA of 7.50 in Semester III and have cleared all
+           courses in the first attempt. They should undergo two additional courses
+           as recommended by the respective department, one course in the 4th
+           semester and the other course in the 5th semester.
+
+R4.18.2   Registration Procedure
+
+   a.     Any student who meets the eligibility criteria specified above and intends
+          to register for the “Honours” qualification shall apply to the Institution
+          through Head of the Department / Dean (FET) in a prescribed form along
+          with the prescribed application fee within 15 days after notification by
+          the Institution.
+
+   b.     There will be no limit on the intake of students for registration for
+          “Honours” qualification.
+
+   c.     Notification for approved registrants will be intimated by the Dean
+          (Academic Courses) within a week period of time after the closing date.
+
+
+
+
+                                        20
+    d.    The selected students shall pay a one-time non-refundable registration fee
+           along with the tuition fee as prescribed by the Institution to confirm the
+           registration.
+
+R4.18.3    Additional Course Works B.Tech. (Honours)
+
+    a.     In addition to the courses prescribed by the Institution to be completed
+           successfully in all the semesters for the relevant degree award, each
+           student registered for “Honours” degree qualification shall have to take
+           up additional course works from a specified group of professional
+           electives (vertical) or from any of the verticals of the same programme
+           that lead to an additional 20 credits (maximum) as recommended by
+           AICTE.
+
+    b.     All the additional course works should be completed within the
+           minimum prescribed duration for the award of the degree.
+
+    c.     Students opting for an Honours degree shall be allowed to learn one or
+           two courses online.
+
+    d.     Students should have passed all the additional courses in th e first
+           attempt and have obtained CGPA >= 8.0.
+
+R4.18.4    B.Tech. Minor with Specialization in another Discipline
+
+“Minor” Degree shall be awarded to the UG students on earning the specific extra
+credits after satisfying the relevant degree award conditions.
+
+R4.18.5    The students opting for Minor degree qualification will be permitted to
+           register for the additional courses from Semester III onwards.
+
+R4.18.6    The student should have earned an additional 20 credits in any one of the
+           verticals offered from other Engineering Disciplines / Science and
+           Humanities / Management studies.
+
+
+
+
+                                         21
+R4.18.7   The student must enroll for these additional courses separately and should
+          pay a one-time non-refundable registration fee, a tuition fee for studying
+          these additional courses and an additional examination fee.
+
+R4.18.8   The students can optionally enroll and earn a maximum of 6 credits in
+          online mode from SWAYAM / NPTEL / other Online courses offered by
+          premier institutions as approved by the Head of the Department, Dean
+          FET, and Dean (Academic Courses).
+
+R4.18.9   All the additional course works should be completed within the minimum
+          prescribed duration (vide Clause R5) for the award of the degree.
+
+R5.       DURATION OF THE PROGRAMME
+
+R5.1      A student is ordinarily expected to complete the B.Tech. Degree
+          Programme in 8 semesters (four academic years) but in any case,
+          not more than 14 Semesters (seven academic years) for HSC (or
+          equivalent) candidates and not more than 12 semesters (six academic
+          years) for lateralentry candidates.
+
+R5.2      Each semester shall normally consist of 90 working days including the
+          days during which the continuous assessments examinations are
+          conducted. The Dean (Academic Courses) shall ensure that every teacher
+          imparts instruction as per the number of periods / hours specified in the
+          syllabus and that the teacher delivers the full content of the specified
+          syllabus for the course being taught.
+
+R5.3      The total period for completion of the programme reckoned from the
+          commencement of the first semester to which the candidate was admitted
+          shall not exceed the maximum period specified in Clause              R5.1
+          irrespective of the period of Break of Study (vide Clause R17) or
+          prevention (vide Clause R7.7) in order that he / she may be eligible for
+          theaward of the degree (vide Clause R16.1).
+
+
+
+
+                                         22
+R6.    COURSE ENROLLMENT AND REGISTRATION
+
+       The courses that a student registers in a semester includes:
+
+         i.   Courses of the current semester (including mandatory non-credit
+              courses).
+
+        ii.   Course(s) in which he / she has not been permitted to appear for
+              the end semester examinations for want of the minimum required
+              attendance if such courses are offered in that semester.
+
+       iii.   Professional or Open elective course(s) opted by the students in
+              lieu of the same category of courses in which he / she has failed,
+              if the courses are offered in the semester.
+
+       iv.    The student shall register for the project work in the VII / VIII
+              semester.
+
+        v.    Any other course(s) the student wishes to register as per norms
+              (vide Clauses R4.7, R4.8, R4.15, R4.16, R4.17, and R4.18) with
+              the approval of Head of the Department, Dean (FET), and Dean
+              (Academic Courses).
+
+R6.1   Each student, on admission, shall be assigned to a Mentor (vide Clause
+       R9), who shall advice and counsel the student about the details of the
+       academic programme and the choice of courses, considering the student’s
+       academic background and career objectives.
+
+R6.2   Each student shall register for all the courses prescribed in the curriculum
+       of the first semester of study.
+
+R6.3   After registering for a course, the student should attend classes, satisfy
+       attendance requirements (vide Clause R7), earn continuous assessment
+       marks, and appear for the end semester examinations.
+
+
+
+
+                                         23
+R6.4     Enrollment for all the courses listed in the curriculum from the semesters
+         II to VIII and additional courses for Honours, Specialization and Minor
+         from the semesters III to VII will commence five working days prior to
+         the commencement of the succeeding semester.
+
+         The courses for Honours, Specialization, and Minor shall be registered
+         separately under additional courses. The candidate makes the choice of
+         electives in consultation with his / her Mentor.
+
+R6.5     Late registration will be permitted with a fine amount as prescribed by
+         theInstitution up to two weeks from the last date specified for registration.
+
+R6.6     The student shall enroll for the courses with the guidance of the Mentor.
+         If the student wishes, the student may drop or add courses (vide Clause
+         R6.9) within five working days after the commencement of the concerned
+         semester and complete the registration process duly authorized by the
+         Course Instructor / Mentor.
+
+R6.7     The list of students approved by the respective Course Instructor as
+         discussed in the Class Committee (vide Clause R10) shall be final and
+         would be considered for attendance, grades, and calculation of CGPA and
+         no changes shall be made thereafter.
+
+R6.8     The candidate will be eligible for enrollment only if he / she has cleared
+         all the dues to the Institution such as Hostel fees, Library due, Laboratory
+         breakages etc., of the previous semester and paid all required prescribed
+         fees for the current semester, provided he / she is not debarred from the
+         Institution on account of disciplinary matters.
+
+R6.9     FLEXIBILITY TO ADD OR DROP COURSES
+
+R6.9.1   A student must earn the total number of credits specified in the
+         curriculum of the chosen programme of study to be eligible to obtain the
+         degree. However, the student is permitted to earn more than the total
+
+
+
+                                        24
+          number of credits prescribed in the curriculum of the programme. In such
+          cases, the minimum number of credits required for the completion of the
+          programme would be considered for CGPA calculation.
+
+R6.9.2    From third semester onwards, each student has to register all courses
+          in the curriculum of a respective semester (with the facility to drop
+          courses to a maximum of 8 credits). The dropping of courses shall be
+          decided as per prerequisite requirements in consultation with the Mentor.
+
+R6.9.3    The student can also register for courses in which he / she failed in the
+          earlier semesters. In such cases the student shall do reappearance
+          registration for those courses or redo the courses when they are offered.
+
+R6.9.4    In case, the student fails to secure pass in an elective course, he / she shall
+          be allowed to opt for a change in elective and register for the same and
+          do attend the classes to meet the criteria stated in Clause R7 and the failed
+          elective shall not be listed in the Grade Sheet.
+
+R6.9.5    In any case, adding or dropping or redoing of courses, the total number
+          of credits that a student is allowed to register per semester cannot exceed
+          30.
+
+R6.9.6    For an elective to be offered, the department shall specify the minimum
+          number of students required.
+
+R6.10     Reappearance Registration
+
+R6.10.1   If a student fails in a theory / practical / theory integrated with practical
+          course, and practical integrated with theory course, the student shall do
+          reappearance registration for that course in the subsequent semester, and
+          appear for the end semester examination. However, the continuous
+          assessment marks obtained by the student will be retained for the
+          subsequent arrear attempts.
+
+
+
+
+                                          25
+R6.10.2   If the course in which the student has failed is a professional elective or
+          anopen elective, the student will be permitted to register for the same in
+          the subsequent semesters and shall appear for the            end semester
+          examination. If a student registers for the same professional / open
+          elective, then the Clause R 6.10.1 is applicable. If a student registers
+          for any other professional / open elective, he / she must attend the classes
+          and fulfil the attendance requirements (vide Clause R7), earn continuous
+          assessment marks, and appear for the end semester examination.
+
+R6.10.3   The student who fails in project work shall register for the same in the
+          subsequent semester, when offered next, and repeat the course. In this
+          case, the student must satisfy attendance requirements (vide Clause R7),
+          earn continuous assessment marks and appear for the end semester
+          examination.
+
+R6.10.4   Students are not eligible to reappear for the courses that they have already
+          passed in a semester for improvement of Grade / Marks.
+
+R6.11     Redoing a Course
+
+          Redoing a course means re-registering for a course, attending all classes,
+          fulfilling the attendance requirements as per Clause R7, earning fresh
+          continuous assessment marks and appearing for the end semester
+          examination. A student must redo a course in the following conditions:
+
+R6.11.1   If a student is prevented from writing the end semester examination of
+          anycore course due to lack of attendance, the student has to register for
+          that course again when offered next and redo the course.
+
+R6.11.2   If a student is prevented from writing the end semester examination of
+          any professional / open elective course due to lack of attendance, the
+          student can opt to register for the same course again when offered next
+          and redo the course, or he / she can opt to register for a different
+          professional / open elective course when it is offered, attend classes,
+
+
+
+                                         26
+          fulfill the attendance requirements as per Clause R7, secure continuous
+          assessment marks and appear for end semester examination.
+
+R6.11.3   If a student fails to secure a pass in any theory / laboratory / theory
+          integrated with laboratory / laboratory integrated with theory course
+          (including elective theory), he / she is given a maximum of three arrear
+          attempts to complete the course as per Clause R14.3. If the student still
+          fails to secure a pass, he / she shall register for the same when offered
+          next and redo the course.
+
+R6.11.4   If the course in which the student fails to secure a pass even after three
+          arrear attempts is a professional / open elective course, then the student
+          can opt for a different professional / open elective course, register for the
+          same when it is offered, attend classes, fulfill the attendance requirements
+          as per Clause R7, secure continuous assessment marks and appear for
+          end semester examination.
+
+R6.11.5   The student who fails in any Project work (Phase 1 / Phase 2) shall
+          register for the course again, when offered next, and redo the course. In
+          this case, the student shall attend the reviews and fulfill the attendance
+          requirements as per Clause R7.
+
+R6.11.6   The student who fails in Seminar / Internship / Case Study and Industrial
+          / Practical Training and Creative and Innovative project shall register for
+          the same in the subsequent semester and redo the course. In this case, the
+          student shall attend the classes and fulfill the attendance requirements as
+          per Clause R7.
+
+R7.       REQUIREMENTS             FOR        APPEARING        FOR      THE      END
+          SEMESTER EXAMINATIONS
+
+          A student who has fulfilled the conditions, vide Clause R7.3 and Clause
+          R7.4 shall be deemed to have satisfied the attendance requirements for
+          appearing for the end semester examination of a particular course.
+
+
+
+
+                                         27
+R7.1   All students must attend every lecture, tutorial, and practical classes.
+
+R7.2   Attendance record will be maintained based upon roll calls (or any
+       equivalent operation) in every scheduled lecture, tutorial, and practical
+       class. The Class Advisor will maintain and consolidate the attendance
+       record for all the courses (lectures, tutorials, and practicals together, as
+       applicable).
+
+R7.3   Ideally every student is expected to attend all periods and earn 100
+       percent attendance. However, the student shall secure not less than 75
+       percent attendance, course wise, considering the number of periods
+       required for that course, as specified in the curriculum.
+
+R7.4   If a student secures attendance between 65 percent and less than 75
+       percent in any course in the current semester, due to medical reasons
+       (hospitalization / accident / specific illness) or due to participation in the
+       College / University / State / National / International level Sports events,
+       with prior permission from the Head of the Department concerned and
+       Dean (FET), the student shall be given exemption from the prescribed
+       attendance requirement and the student shall be permitted to appear for
+       the end semester examination of that course. In all such cases, the
+       students should submit the required documents on joining after the
+       absence to the Head of the Department through the Mentor.
+
+R7.5   A student shall normally be permitted to appear for the end semester
+       examination of the course if the student has satisfied the attendance
+       requirements (Clauses R7.3 and R7.4) and has registered for the
+       examination in those courses of that semester by paying the prescribed
+       fee.
+
+R7.6   A student who has an attendance of less than 75 percent will not be
+       permitted to appear for the end semester examination in the course in
+       which the shortage exists. His / her registration for that course will be
+
+
+
+                                       28
+        treated as cancelled and he / she shall be awarded 'SA' grade (“Shortage
+        ofAttendance” i.e., registration is cancelled due to lack of attendance) in
+        that course. This grade shall appear in the Result Sheet. The student
+        should register and repeat the course as and when it is offered next.
+
+R7.7    Students who do not satisfy Clauses R7.3 and R7.4 or who secure less
+        than 65 percent attendance in a course will not be permitted to write the
+        end semester examination of that course (vide Clause R7). The student
+        must register and redo the course when it is offered next as per Clause
+        R6.11. If the course in which the student has been prevented is a
+        professional / open elective, the student can opt to redo the same course
+        or opt for different professional / open elective course as per Clause
+        R6.11.2.
+
+R7.8    If a student has shortage of attendance in all the registered courses, he
+        / she would not be permitted to move to the higher semester and must
+        repeat the current semester in the subsequent year.
+
+R7.9    In the case of reappearance registration for a course, the attendance
+        requirement as mentioned in Clauses R7.3 and R7.4 is not applicable.
+        However, the student must register for the examination in that course by
+        paying the prescribed fee.
+
+R7.10   If the student needs leave for a short duration (less than two weeks), prior
+        application for the leave shall have to be submitted to the Head of the
+        Department concerned stating the reasons for the leave requested along
+        with supporting documents and such leave may be granted by the Head
+        of the Department.
+
+R7.11   Absence for the period not exceeding two weeks in a semester due to
+        sickness or any other unavoidable reasons for which prior application
+        could not be made may be condoned by the Head of the Department
+        provided the given explanation is acceptable.
+
+
+
+                                       29
+R7.12   If the period of absence is likely to exceed two weeks, a prior application
+        for grant of leave will have to be submitted through Head of the
+        Department / Dean (FET) to the Dean (Academic Courses) with
+        supporting documents. In such case the decision to grant leave shall be
+        taken by the Dean (Academic Courses) on the recommendation of the
+        Head of the Department and Dean (FET).
+
+R7.13   A student who is absent due to illness or any other emergency, up to a
+        maximum of two weeks, should approach the Class Advisor / Course
+        Coordinator / Course Instructor for assignments and laboratory work.
+
+R7.14   In case, the period of absence on medical grounds is more than 20
+        working days during the semester, the student may apply for withdrawal
+        from the semester, i.e. withdrawal from all courses registered in that
+        semester.
+
+R7.15   If a student is continuously absent from the Institution for more than four
+        weeks without any notification to the Dean (Academic Courses), his / her
+        name will be removed from the Institution rolls and the same should be
+        informed to his / her parents immediately.
+
+R8.     CLASS ADVISOR
+
+        There shall be a Class Advisor for each class. The Class Advisor will be
+        one among the course instructors of the class. He / She will be appointed
+        by the Head of the department concerned. The Class Advisor is the ex-
+        officio member and the Convener of the class committee.
+
+        The responsibilities of the Class Advisor shall be:
+
+           a. To act as the channel of communication between the Head of the
+               Department and the students of the respective class.
+
+           b. To collect and maintain various details such as attendance,
+               assessment marks and long leave particulars.
+
+
+
+                                      30
+         c. To help the Chairperson of the class committee in planning and
+             conducting the class committee meetings.
+
+         d. To monitor the academic performance of the students including
+             attendance and to inform the class committee.
+
+         e. To coordinate with each instructor in performing analysis of
+             results ofcontinuous assessments and end semester examinations
+             and in estimating CO – PO attainment.
+
+         f. To attend to the students’ welfare activities like awards, medals,
+             scholarships, and industrial visits.
+
+R9.   MENTOR
+
+      To help the students in planning their courses of study and for general
+      advice on the academic programme, the Head of the Department will
+      attach a certain number of students to a teacher of the Department, who
+      shall function as Mentor for those students throughout their period of
+      study. The Mentor shall advise the students in registering and
+      reappearance registering of courses, authorize the process, monitor their
+      attendance and progress and counsel them periodically. If necessary, the
+      Mentor may also discuss with or inform the parents about the progress /
+      performance of the students concerned. The number of students assigned
+      to a Mentor will be decided by the Head of the Department. However,
+      the strength shall not exceed 20 students per Mentor. The responsibilities
+      of the Mentor shall be:
+
+         a. To inform the interpretation of Regulations to the students and
+             their rights and duties.
+
+         b. To inform the code of conduct to be maintained in the campus
+             anddisciplinary actions.
+
+
+
+
+                                        31
+          c. To inform the students about the various facilities and activities
+              available to enhance the students’ curricular and co-curricular
+              activities.
+
+          d. To guide in the process of enrollment and registration of the
+              courses.
+
+          e. To authorize the final registration of the courses at the beginning
+              of each semester.
+
+          f. To monitor the academic and general performance of the students
+              including attendance and to counsel them accordingly.
+
+          g. To collect and maintain the students’ academic and co-curricular
+              records.
+
+          h. To facilitate and collect students’ feedback about the course
+              and course instructor.
+
+          i. To facilitate and collect the course exit survey and programme exit
+              survey.
+
+          j. To provide all the details of the academic, including feedback,
+              training, scholarship, placement, co-curricular, and extracurricular
+              activities of the students to the Dean (Academic Courses).
+
+R10.   CLASS COMMITTEE
+
+       A class committee consists of all teachers of the class concerned, student
+       representatives and a chairperson who does not handle any course for the
+       class. It is like the “Quality Circle” (more commonly used in industries),
+       with the overall goal of improving the teaching-learning process. The
+       class committee shall be constituted by the Head of the Department
+       within 7 days from the commencement of classes. The Class Advisor and
+       the Head of the Department will attend the meeting. The Dean
+
+
+
+                                       32
+(Academic Courses), Dean (FET), and the Mentor(s) shall be called to
+attend the meeting as special invitees, if required. The functions of the
+class committee include:
+
+   a. Solving problems experienced by students in the classroom and in
+      the laboratories in consultation with the Head of the Department,
+      Dean (FET), and Dean (Academic Courses).
+
+   b. Clarifying the Regulations of the degree programme and the
+      details of rules therein.
+
+   c. Informing the student representatives about the academic
+      schedule including the dates of assessments and the syllabus
+      coverage for each assessment.
+
+   d. Informing the student representatives, the details of Regulations
+      regarding weightage used for each assessment.
+
+   e. Discussing in the class committee meeting the breakup of marks
+      for each experiment / exercise / module of work, in case of
+      practical courses (laboratory / project work / seminar, etc.) and
+      informing the students.
+
+   f. Analyzing the performance of the students of the class after each
+      assessment and finding ways and means of improving their
+      performance.
+
+   g. Identifying the students who are low achievers or weak in their
+      courses if any, and requesting the teachers concerned to provide
+      some additional help or guidance or coaching to such students.
+
+The class committee is normally constituted by the Head of the
+Department.However, if the students of different programmes are mixed
+in each class, the class committee is to be constituted by the Dean
+
+
+
+
+                              33
+       (Academic Courses). At least 4 student representatives from the
+       respective class (usually 2 boys and 2 girls) shall be included in the class
+       committee. The Chairperson of the class committee is required to prepare
+       the minutes of every meeting, submit the same to the Head of the
+       Department within two days of the meeting and arrange to circulate the
+       same among students concerned and teachers. A copy of the minutes shall
+       be displayed in the notice board. If there are some points in the minutes
+       requiring action by the Institution, the same shall be brought to the notice
+       of the Registrar through Dean (FET) and Dean (Academic Courses).
+
+       The first meeting of the class committee shall be held within 10 days from
+       the date of commencement of the semester. The enrollment of courses
+       including add and drop of the courses will be finalized. The nature and
+       weightage of continuous assessments shall be decided in the first
+       meeting, within the framework of the Regulations and the same shall be
+       communicated to the students. Two or three subsequent meetings in a
+       semester may be held at suitable intervals. During these meetings the
+       student members representing the entire class, shall meaningfully interact
+       and express their opinions and suggestions of the class students to
+       improvethe effectiveness of the teaching-learning process. In each
+       meeting, the actiontaken report based on the minutes of the previous
+       meeting is to be presented and discussed by the Chairperson of the class
+       committee. After the completion of the end semester examination and
+       evaluation process, the course instructor shall keep the record of marks
+       and grades earned by the students for the computation of CO and PO
+       attainments.
+
+R11.   COMMON COURSE COMMITTEE
+
+       A theory course handled by more than one teacher, or each common
+       theory course offered to more than one discipline or group of disciplines,
+       shall have a “Common Course Committee” comprising of all the
+
+
+
+                                      34
+       instructors teaching that common course with one of them nominated as
+       Course Coordinator. The nomination of the Course Coordinator shall be
+       made by the Dean (Academic Courses) in consultation with the Dean
+       (FET) and the Heads of the Departments, from among the instructors
+       teaching the common course either from a single department or several
+       departments.
+
+       The committee shall be constituted by the Dean (Academic Courses)
+       within 5 days from the commencement of the semester. The first
+       meeting of the Common Course Committee shall be held within 5 days
+       from the date of formation of the committee. The lesson plan, books and
+       references to be followed shall be decided at the first meeting.
+
+       The “Common Course Committee” shall meet as often as possible and
+       ensure uniform evaluation of continuous assessments after arriving at a
+       common scheme of evaluation for the assessments (vide Clause R13).
+       Wherever feasible, the common course committee shall prepare a
+       common question paper for the continuous assessment tests, objective
+       type test and end semester examination.
+
+       The question paper for the end semester examination shall be set by the
+       Course Coordinator, in consultation with all the teachers.
+
+       The common course committee shall meet to decide the multiplication
+       factor for the respective batch of students, if required. The minutes in this
+       regard shall be sent to all the concerned Head of the Department and the
+       Controller of Examinations.
+
+R12.   PERFORMANCE ANALYSIS COMMITTEE
+
+       The Performance Analysis Committee will consist of the same members
+       as the class committee but including the Dean (Academic Courses),
+       Director (IQAC), Dean (FET), and the Head of the Department and
+
+
+
+
+                                      35
+       excluding the student members. An external member from an allied
+       department shall be nominated by the Dean (Academic Courses) in
+       consultation with the Vice Chancellor to the Performance Analysis
+       Committee.
+
+       The meeting of the Performance Analysis Committee is to be held within
+       10 days from the last day of the end semester examinations to analyze
+       the performance of the students in all courses of study by estimating the
+       CO - PO attainment levels and finalize the grade ranges for each course
+       and forward the statement of grades to Dean (Academic Courses)
+       immediately, through the Headof the Department and Dean (FET).
+
+       The Performance Analysis Committee, by collective wisdom, should
+       ensure that the clustering / grading / pass–fail decisions have been
+       reasonably balanced. The attendance registers of all the courses with all
+       the continuous assessment marks, end semester marks, Tabulation
+       Register, grades, and grade-ranges entered in the register are also to be
+       sent to Dean (Academic Courses) immediately through the Head of the
+       Department and Dean (FET) for forwarding to the Controller of
+       Examinations.
+
+R13.   SYSTEM OF EXAMINATION
+
+       The End Semester examinations for theory, theory integrated with
+       practical, practical integrated with theory, and practical courses will be
+       of 3 hours duration. These examinations shall normally be conducted
+       between October and December during the odd semesters and between
+       April and June during the even semesters.
+
+       For practical, practical integrated with theory, and project courses, the
+       end semester examination will be conducted with an external examiner
+       appointed by the Controller of Examinations.
+
+
+
+
+                                     36
+R13.1   Assessment Procedures for Awarding Marks
+
+        All B.Tech. programmes consist of Theory, Theory integrated with
+        Practical, Practical, Practical integrated with Theory Courses and
+        Employability       Enhancement Courses. Employability Enhancement
+        Courses include Project Work, Seminar, Professional Practices, Case
+        Study and Industrial / Practical Training, Skill Development Courses
+        / Value Added Courses. Appearance in End Semester Examination is
+        mandatory for all courses including Theory, Theory integrated with
+        Practical, Practical, Practical integrated with Theory courses, project
+        work, and all lecture-based employability enhancement courses.
+
+        Performance in each course of study shall be evaluated based on:
+
+        i)    Continuous Assessments throughout the semester and
+
+        ii)   End Semester Examination
+
+        The evaluation shall be based on Outcome Based Education and the
+        relevant rubrics shall be followed.
+
+R13.2   Each course, Theory, Theory Integrated with Practical, Practical,
+        Practical Integrated with Theory, Project Work, and Value Added Course
+        shall be evaluated for a maximum of 100 marks. The weightage for
+        continuous assessment marks and end semester examination marks are
+        given in Table 7.
+
+R13.3   Some domain specific        courses   included      under   Employability
+        Enhancement Courses are evaluated by internal assessments only. There
+        is no evaluation for Audit Courses. However, minimum attendance
+        requirements as per Clause R7 shall be satisfied.
+
+
+
+
+                                      37
+                        Table 7: Weightage of Marks
+
+
+                                                       Marks Weightage (%)
+        Sl.
+                   Category of Courses              Continuous       End Semester
+        No.
+                                                    Assessment       Examination
+        1     Theory Courses                             40               60
+
+        2     Laboratory Courses                         75               25
+              Theory integrated with                Theory - 20
+        3                                                             Theory - 60
+              Laboratory Courses                   Laboratory - 20
+              Laboratory integrated         with    Theory - 25
+        4                                                          Laboratory - 25
+              Theory Courses                       Laboratory - 50
+        5     Project Work                               60               40
+              Value Added Courses, Skill
+              Development Courses,
+        6                                               100               ---
+              Internship and Online Courses
+              (with one credit)
+
+
+R13.4   Every teacher is required to maintain an “ATTENDANCE AND
+        ASSESSMENT RECORD” for every semester, which consists of
+        attendance marked in each class of Theory / Theory Integrated with
+        Practical / Practical / Practical Integrated with Theory / EEC / Audit
+        Courses, the assessment marks, and the record of class work (topics
+        covered), separately for each course handled by the teacher.
+
+        The attendance book completed in all respects should be submitted to the
+        Head of the Department periodically (three times in a semester) for
+        checking the syllabus coverage and the records of assessment marks and
+        attendance. The Head of the Department and Dean (FET) will affix
+        signature and date after due verification. At the end of the semester, the
+        record should be verified by the Dean (Academic Courses)who shall keep
+        this document in safe custody for 5 years. The records of attendance and
+        assessment of both current and previous semesters should be available
+        for auditing.
+
+
+
+                                       38
+R13.5        Assessment for Theory Courses
+
+R13.5.1      The End Semester Examinations for theory courses will be 3-hours
+             duration for 100 marks and shall normally be conducted between October
+             and December during the odd semesters and between April and June
+             during the even semesters. The marks obtained by the student shall be
+             converted to weightage of 60 percent.
+
+R13.5.2      Continuous Assessment Evaluation for Theory Courses
+
+        i.   The mode(s) of internal evaluation is / are to be decided for each course
+             in the class committee.
+
+     ii.     The handwritten notes taken by students while attending classes are to be
+             regularly monitored by the course teacher. Ten marks shall be awarded
+             for the best handwritten notes, while the other handwritten notes will be
+             evaluated comparatively with marks of 2, 4, 6, and 8.
+
+    iii.     There should be objective type assessment to evaluate the students for all
+             courses exactly from 45 days to 60 days after commencement of classes
+             in a semester and the weightage is 20 marks. There shall be 20, 40 or 50
+             questions based on the course. The duration of the assessment shall be 60
+             minutes for each course.
+
+    iv.      There shall be assignment / tutorial / quiz / case study / seminar / mini-
+             project type of assessment for each course as decided in the class
+             committee and the faculty must evaluate fairly for all the students
+             relatively for 20 marks.
+
+     v.      All regular assessment tests are to be conducted for 100 marks and the
+             marks obtained by the students are converted to 40 marks while
+             evaluating continuous assessment marks. Three assessment tests are to
+             be conducted for each course.
+
+
+
+
+                                           39
+ vi.    The question paper is to be set considering the appropriate Bloom’s
+        Taxonomy levels and to cope with the prescribed course outcomes.
+
+vii.    The regular first assessment test is to be conducted between 30 and 35
+        days from the commencement of classes for the semester with the portion
+        of syllabus covered up to 4 weeks. The test duration shall be a minimum
+        of 1 hour. The mark obtained in the regular first assessment test (written
+        for 100 marks) is converted to 90 percent to which the marks obtained
+        for handwritten notes (maximum 10) is to be added to make it 100
+        (Continuous Assessment 1).
+
+viii.   The second assessment test, termed as Mid-term test is to be conducted
+        between 60 and 65 days from the commencement of classes for the
+        semester with the portion of syllabus covered up to 8 weeks. The test
+        duration shall be 2 hours. The question paper should have 5 questions in
+        Part A and 3 questions in Part B. Marks obtained in the Mid-term
+        assessment test (written for 100 marks) is converted to 70 percent to
+        which the marks obtained for handwritten notes (maximum 10 marks)
+        and marks obtained in the objective type of assessment (maximum 20
+        marks) are to be added to make it 100 (Continuous Assessment 2).
+
+ ix.    The third assessment test, termed as Model Examination is to be
+        conducted between 80 and 85 days from the commencement of classes
+        for the semester with the portion of syllabus covered up to 11 weeks. The
+        test duration shall be 3 hours. The pattern of the question paper is as per
+        the end semester regular examination. Marks obtained in the Model
+        Examination (written for100 marks) is converted to 70 % to which the
+        marks obtained for handwritten notes (maximum 10 marks) and marks
+        obtained in the Quiz / Seminar / Mini-project assessment (maximum 20
+        marks) are to be added to make it 100 (Continuous Assessment 3).
+
+
+
+
+                                      40
+    x.      The continuous assessment mark is calculated either using Method 1 or
+            Method 2 as follows:
+
+Method 1:
+
+         (Marks in (Continuous Assessment 1+ Continuous Assessment 2 +
+         Continuous Assessment 3) / 300) X 40
+
+Method 2:
+
+         Handwritten notes (10) + Objective Type test (20) + Quiz / Seminar (10)
+         + First assessment test (20) + Mid-term test (20) + Model Examination
+         (20) = 100 marks. Reduce the marks obtained by each candidate to 40
+         percent and shall be submitted as continuous assessment marks.
+
+         The commencement date of assessments and the number of weeks to be
+         considered for syllabus coverage shall be fixed or modified as per the
+         academic schedule prescribed by the Dean (Academic Courses) and
+         Controller of Examinations.
+
+R13.5.3 In case, a student misses the assessment due to medical reasons
+         (hospitalization / accident / specific illness) or due to participation
+         in the College / University / State / National / International level
+         Competitions / NSS / NCC camps / Internships with prior
+         permission from the Head of the Department and Dean (FET), only
+         one re-assessment may be given at the end of the semester after
+         getting approval from the Dean (Academic Courses) by the
+         concerned Head of the Department and Course Instructor.
+
+R13.6    Assessment for Theory Integrated with Practical Courses and
+         Practical Integrated with Theory Courses
+
+         Each theory integrated with practical or practical integrated with theory
+         course shall be evaluated for a maximum of 100 marks as shown in Table
+         8.
+
+
+
+                                        41
+                          Table 8: Assessment Weightage
+
+                                              Marks (in percentage)
+                   Category          Assessmen    Assessment          End
+   Sl. No.                              t for          for          Semester
+                   ofCourse
+                                      Theory      Laboratory      Examination
+             Theory integrated        20 (Two       20 (Continuous      60 (Theory
+    1.
+             with Practical         Assessments)      Evaluation)      Examination)
+
+             Practical integrated     25 (One       50 (Continuous      25 (Practical
+    2.
+             withTheory             Assessment)        Evaluation)      Examination)
+
+
+          For theory integrated with practical courses, the end semester
+          examinations will be conducted as theory examinations. For practical
+          integrated with theory courses, the end semester examinations will be
+          conducted and evaluated with an external examiner appointed by
+          Controller of Examinations. The procedure for conduct of continuous
+          assessments for laboratory component is as per the Clause R13.7. The
+          two assessment tests for theory are written tests. The weighted average
+          shall be converted into 40 marks for continuous assessment in case of
+          theory integrated with practical courses and into 75 marks for practical
+          integrated with theory courses.
+
+R13.7     Assessment for Laboratory Courses
+
+R13.7.1   Every laboratory exercise / experiment shall be evaluated based on the
+          student’s performance during the laboratory class and the maintenance of
+          laboratory records.
+
+R13.7.2   There shall be at least one assessment test for laboratory courses.
+
+R13.7.3   The criteria for arriving at the continuous assessment marks of 75 will be
+          as per the following scheme: for successful completion of all the
+          prescribed experiments / exercises done in the laboratory including
+          observation and record work, 75 percent of marks shall be awarded, and
+          25 percent marks shall be awarded for the assessment test.
+
+
+
+                                        42
+          The total marks earned by the student in continuous assessments shall be
+          converted into a maximum of 75 marks and rounded to the nearest
+          integer.
+
+R13.7.4   The end semester examination for laboratory courses shall be for 25
+          marks and shall include viva-voce also as a part of it. The viva-voce
+          examination shall be conducted by an external examiner appointed by the
+          Controller of Examinations.
+
+R13.7.5   The end semester examination for laboratory courses will be of 3 hours
+          duration and shall normally be conducted before the start of the theory
+          examinations for that semester.
+
+R13.8     Assessment for Project Work (Phase 1 and Phase 2)
+
+R13.8.1   For Project work out of 100 marks, the maximum mark for continuous
+          assessment is fixed as 60 and the end semester examination (project
+          report evaluation and viva-voce examination) carries 40 marks. Project
+          work may be assigned to a single student or to a group of students, not
+          exceeding 3 per group. Project Phase 2 in the eighth semester must be
+          continuation of Project Phase 1 in the seventh semester with the same
+          team members and supervisor if the students are pursuing their project
+          work within the campus.
+
+R13.8.2   There shall be three assessments (each 100 marks) during the semester
+          by a review committee. The student shall make a presentation on the
+          progress made before the committee. The Head of the Department shall
+          constitute a review committee for each programme. There shall be a
+          minimum of three members in the review committee. The committee
+          shall consist of the supervisor (project guide), project coordinator and
+          domain expert from the concerned / allied department. The total marks
+          obtained in the three reviews shall be converted to a maximum of 60
+          marks rounded to the nearest integer. The review meetings, if necessary,
+
+
+
+                                        43
+          may also be arranged in online mode with prior approval from the Dean
+          (Academic Courses) and a suitable record of the meetings shall be
+          maintained.
+
+R13.8.3   The student(s) is (are) expected to submit the project report on or before
+          the last working day of the semester. The end semester examination for
+          the project work shall consist of the evaluation of the final project report
+          submitted by the student or students of the project group by an external
+          examiner, followed by a Viva-voce examination conducted separately for
+          each student by a committee consisting of the external examiner and an
+          internal examiner (other than project guide).
+
+          The project coordinator shall be the internal examiner. The Head of the
+          Department with the approval of Controller of Examinations shall
+          appoint the external examiner for the end semester examination of the
+          project work.
+
+R13.8.4   The continuous assessment and viva-voce examination marks for
+          projectwork shall be distributed as indicated below in Table 9:
+
+       Table 9: Continuous Assessment and End Semester Examination
+                          Marks for the Project Work
+                                              End Semester Examinations
+ Continuous Assessment (60 Marks)
+                                                      (40 Marks)
+                             Review                            Viva-voce
+ Review I     Review II                    Project Report
+                               III                            Examination
+                                          Guide    External Internal External
+     10           20            30
+                                              10       10          10         10
+
+
+R13.8.5 If the project report is not submitted on or before the specified deadline,
+          an extension of time up to a maximum limit of 30 days may be given for
+          the submission of project work with due approval obtained from the Dean
+          (Academic Courses) and the same needs to be communicated to
+
+
+
+                                         44
+          Controller of Examinations. If the project report is not submitted even
+          beyond the extended time, then the student is deemed to have failed in
+          the Project Work. In the above two cases, double the amount of
+          prescribed Viva-voce examination fee shall be collected from the
+          students.
+
+R13.8.6   A student may, however, in certain cases, be permitted to work on the
+          project in an Industry / Research organization on the recommendation of
+          the Head of the Department and Dean (FET), with the approval of the
+          Dean (Academic Courses). In such cases, the project work shall be jointly
+          supervised by a faculty member (project guide) of the department and an
+          expert from the organization (project coordinator) and the student shall
+          be instructed to report the progress periodically and to attend the project
+          reviews for evaluating the progress. The student will produce a certificate
+          of attendance from the Industry / Research organization where the project
+          is carried out. In case of industrial projects, the marks allotted for the
+          project guide will be shared equally by the guide from the department and
+          the coordinator from the industry.
+
+R13.9     Assessment for Seminar / Professional Practices
+
+          The Seminar / Professional Practices / Case study / Mini-Project shall
+          carry 100 marks and shall be evaluated through continuous assessment
+          only. Every student is expected to present a minimum of 2 presentations
+          / demonstration per semester before the evaluation committee and for
+          each presentation / demonstration, marks can be equally apportioned. The
+          three-member committee consisting of one coordinator and two members
+          appointed by the HOD will evaluate the performance of the student in
+          above activities at the end of the semester, the marks can be consolidated
+          and taken as the final mark. The evaluation shall be based on the seminar
+          paper / report (40 marks), presentation / demonstration (40 marks) and
+          response to the questions asked during presentation / demonstration (20
+
+
+
+                                        45
+         marks). The final marks obtained by each student in all the above
+         activities should be consolidated and submitted to the Office of Dean
+         (Academic Courses) which in turn should be submitted to Controller of
+         Examinations at the end of each semester. The consolidated final mark
+         obtained by each student is converted to 20 marks and to be utilized as
+         stated in the Clause R13.5.2.
+
+R13.10   Assessment for Industrial / Practical Training / Internship /
+         Summer Project
+
+         The Industrial / Practical Training shall carry 100 marks and shall be
+         evaluated through continuous assessment only. At the end of the
+         Industrial / Practical Training / Internship / Summer Project, the student
+         shall submit a certificate from the organization where the student has
+         undergone training and a brief report about the training. The evaluation
+         will be made based on this report (40 marks), presentation (30 marks) and
+         a Viva-Voce Examination (30 marks). The viva- voce examination will
+         be conducted by a three-member committee constituted by the Head of
+         the Department. The committee comprises of one expert from an
+         industry / organization and two members (a coordinator and a member)
+         from the department. Certificates (issued by the Organization) of the
+         student along with his / her mark statement should be submitted by the
+         concerned Head of the Department / Dean (FET) to the Office of Dean
+         (Academic Courses) which in turn should be submitted to Controller of
+         Examinations at the end of each semester.
+
+R13.11   ASSESSMENT OF SEMESTER LONG INDUSTRIAL PROJECT
+         / INTERNSHIP
+
+R13.11.1 The Viva-voce examination for semester long industrial project or
+         internship shall be based on the report submitted by the student regarding
+         the work carried out in the industrial project or internship. The students
+
+
+
+
+                                         46
+           must produce an attendance certificate at the time of reviews. The report
+           shall be certified by the coordinator from the industry, supervisor and
+           Head of the Department.
+
+R13.11.2 Projects / internships undertaken externally should have an internal
+           guide and an external guide. Both guides are expected to interact
+           regularly monitoring the progress of the student.
+
+           For the reviews, the external guide should be present at least in online
+           mode to assess and award marks to the student. In the beginning of the
+           project, the internal guide should ensure that the work to be carried out is
+           up to the standard as well as not attracting any IPR issues with the
+           external organization so that the work could be published.
+
+R13.11.3 The reviews may be conducted in online mode, if the student cannot
+           travel to the institution to attend the reviews and this shall be approved
+           by Head of the Department, and such reviews must be recorded.
+           However, the end semester examination must be conducted in physical
+           mode with the coordinator from the industry present physically or
+           through online.
+
+R13.11.4 In the final report, the Bonafide certificate shall be mandatorily signed by
+           both the guides. However, if any difficulty is encountered in fulfilling
+           this norm, then the Head of the Department and Dean (FET) can initiate
+           remedial action and complete the evaluation requirement with
+           justification and approval of the Dean (Academic courses) for the same.
+
+R13.11.5 The Bonafide certificate of the project report shall have the date of Viva
+           -voce examination and the signatures of the internal and external guides.
+
+R13.11.6 If the project report or report of industrial project or internship is not
+           submitted on or before the specified deadline, an extension of time up to
+           a maximum limit of 30 days may be given for the submission of report
+
+
+
+
+                                          47
+          with due approval obtained from the Head of the Department. If the report
+          is not submitted even beyond the extended time, then the student(s) is
+          deemed to have failed in the Project Work and the student must redo the
+          course again. In the above two cases, double the amount of prescribed
+          Viva-voce examination fee shall be collected from the students.
+
+R13.12    Assessment for Value Added Courses
+
+          This one / two credit course shall carry 100 marks and shall be evaluated
+          through continuous assessments only. One or two assessments shall be
+          conducted during the semester by the department concerned.
+
+          The Head of the Department may identify a faculty member as
+          coordinator for the course. A committee consisting of the Head of the
+          Department, faculty handling the course (if available), coordinator and a
+          senior faculty member nominated by the Head of the Department shall
+          monitor the evaluation process. The grades shall be assigned to the
+          students by the above committee based on their relative performance.
+          Certificates issued by the industry if any along with the student’s mark /
+          grade statement should be submitted by the concerned Head of the
+          Department through Dean (FET) to the Office of Dean (Academic
+          Courses) which in turn should be submitted to Controller of
+          Examinations at the end of each semester.
+
+R13.13    Assessment for Online Courses
+
+          Students may be permitted to credit online courses (NPTEL / SWAYAM
+          / other online platforms) with the approval of the Dean (Academic
+          Courses), subject to a maximum of six credits.
+
+R13.13.1 On successful completion of the online course, the candidate must submit
+          the copy of the certificate and the grade card (if applicable) to the Head
+          of the Department.
+
+
+
+
+                                        48
+R13.13.2 The Head of the Department shall form a team of faculty members to
+         recommend the credit and grade to be awarded to the candidate by
+         mapping the score earned by the student and results shall be submitted to
+         the Office of Dean (Academic Courses) through Dean (FET) which in
+         turn should be submitted to Controller of Examinations for further
+         processing with due approval from Dean (Academic Courses).
+
+R13.13.3 If the grade card is not submitted by the student, the Head of the
+         Department shall recommend the same to the Controller of Examinations
+         through Dean (FET), and Dean (Academic Courses) to conduct end
+         semester examination for the online course.
+
+R13.14   Continuous assessment marks approved by the Dean (Academic
+         Courses) shall be notified to the students by the respective Head of the
+         Departments within 5 days from the last working day.
+
+R14.     PASSING REQUIREMENTS
+
+R14.1    A student who secures not less than 50 percent of total marks
+         prescribed for the course [Continuous Assessment + End Semester
+         Examination] with a minimum of 40 percent of the marks prescribed for
+         the end semester examination, shall be declared to have passed the course
+         and acquired the relevant number of credits. This is applicable for all
+         theory, laboratory, theory integrated with laboratory, laboratory
+         integrated with theory courses (including project work).
+
+R14.2    If the student gets less than 50 percent of total marks, then the student
+         will be awarded only RA (Reappearance) grade.
+
+R14.3    If a student fails to secure a pass in a course, the student shall register and
+         appear for the end semester examination in the subsequent semester or
+         appear for the supplementary examination vide Clause R15.7. In such a
+         case, the Continuous Assessment marks obtained by the student in the
+
+
+
+
+                                         49
+        first appearance shall be retained and considered valid for one subsequent
+        arrear attempt.
+
+        However, from the third attempt onwards, to pass the course, the
+        candidate should secure either 50 percent of marks and above considering
+        the sum of 40 percent of marks acquired in continuous assessment and 60
+        percent of marks earned in end semester examination (satisfying the
+        passing requirement) or 50 percent of marks and above earned in end
+        semester examination alone.
+
+R14.4   The students are allowed to write arrear examination as per Clause
+        R6.10.1.
+
+R14.5   If a student has submitted the project report but absent in the end semester
+        examination of project work, the student is deemed to be failed. If a
+        student attends and fails in the End Semester examination of Project
+        work, he / she shall attend the end semester examination again within 60
+        days from the date of declaration of the results. The subsequent viva-voce
+        examination will be considered as reappearance with payment of
+        examination fee. In case the student fails in the subsequent viva-voce
+        examination also, the student shall redo the course again.
+
+R14.6   The passing requirement for the courses which are assessed only
+        through continuous assessment (employability enhancement courses
+        such as value-added courses, skill development courses, online courses
+        with one credit, and internship except project work), shall be fixed as
+        minimum 50 percent and the rest of the grades are decided.
+
+R15.    AWARD OF LETTER GRADES
+
+R15.1   All assessments will be done based on marks. However, for the
+        purpose of reporting the performance of a student, letter grades, each
+        carrying certain number of points will be awarded as per the range of total
+
+
+
+
+                                       50
+         marks (out of 100) obtained by the candidate in each course as detailed
+         below in the Table 10. The letter grades and the associated grade points
+         are shown in Table 11.
+
+            Table 10: Grade Distribution with Range of Marks
+
+
+     O        A+           A            B+        B             C        RA
+
+91-100       81-90       71-80         61-70     56-60         50-55     <50
+
+
+         An absolute grading system is followed in assigning grades to students
+         for each course registered.
+
+                 Table 11: Letter Grades with Grade Points
+
+
+           Letter Grade     Grade Significance        Grade Points
+
+                   O        Outstanding                   10
+
+                 A+         Excellent                      9
+
+                   A        Very Good                      8
+
+                 B+         Good                           7
+
+                   B        Average                        6
+
+                   C        Satisfactory                   5
+
+                            Reappearance
+                 RA                                        0
+                            Registration
+
+                            Shortage of
+                 SA                                        0
+                            Attendance
+
+                 W          Withdrawal                     0
+
+i.       “RA” denotes Reappearance required for the examination in the course
+         and “W” denotes withdrawal from the course.
+
+
+                                        51
+  ii.     The Grade “SA” denotes inadequate attendance (as per Clause R7) and
+          hence prevented from writing the end semester examination.
+
+ iii.     The Grade “SA” and “W” will figure only in the Result Sheets.
+
+R15.2     For the Extra-curricular activities such as NCC / NSS / NSO / YRC /
+          RRC / Community Engagement and Social Responsibility, 2 credits are
+          assigned in the curriculum. This shall appear in the grade sheet. In the
+          NCC / NSS, every student shall put in a minimum of 75 percent
+          attendance in the training and attend the camp compulsorily. A
+          satisfactory grade in the above extra-curricular activities is compulsory
+          for the award of a degree.
+
+R15.3     The training and camp shall be completed during the first year of the
+          programme. However, for valid reasons, the Head of the Department may
+          permit a student to complete the requirement in the second year.
+
+R15.4     The grades obtained for the one / two credit value added courses shall
+          figure in the grade sheet under the title “ Value Added Courses” /
+          “Online Courses”. The other grades SA and W will not figure in the
+          grade sheet.
+
+R15.5     GRADE SHEETS
+
+R15.5.1   After the results are declared, Grade Sheets will be issued to each
+          student, which will contain the following details:
+
+         List of courses enrolled for that semester and the grades obtained by the
+          student.
+
+         List of courses studied for the award of Honours / Minor / Specialization
+          degree and any other additional courses in which the student has passed
+          with the grades under the title of additional courses.
+
+
+
+
+                                         52
+         The Grade Point Average (GPA) for the semester considering only the
+          courses listed in the curriculum (not the additional courses) and
+
+         The Cumulative Grade Point Average (CGPA) of all courses registered
+          from first semester onwards considering only the courses listed in the
+          curriculum (not the additional courses).
+
+         However, for the students who have successfully completed the
+          requirements of B. Tech. (Honours), B.Tech. with Specialization, and
+          B.Tech. with Minor vide Clause R16.2, the grades scored in the
+          additional courses required for Honours / Specialization / Minor degree
+          shall be considered for the computation of CGPA.
+
+R15.5.2   The Grade Point Average (GPA) for each semester will be calculated
+          only for the students who have passed all the courses of that semester.
+          Similarly, Cumulative Grade Point Average (CGPA) up to any semester
+          will be calculated only for the students who have passed all the courses
+          up to that semester. GPA is the ratio of the sum of the products of the
+          number of credits of curricular courses (Ci) registered and the grade
+          points scored in those courses (GPi), taken for all the courses, to the sum
+          of the number of credits of all the courses successfully cleared (n) during
+          the particular semester.
+
+
+
+
+          On successful completion of the programme, the CGPA will be
+          calculated in a similar manner as follows, considering all the curricular
+          courses (not the additional courses) enrolled from the first semester.
+
+
+
+
+                                        53
+                                             ∑𝑁
+                                              𝑖=1 𝐶𝑖 × 𝐺𝑃𝑖
+                                  CGPA =
+                                                ∑𝑁𝑖=0 𝐶𝑖
+
+
+          where N is the total number of courses for the entire programme.
+
+R15.5.3   If a student studies a greater number of professional and open electives
+          than required as per the student’s programme curriculum (assuming the
+          student decides not to opt for Honours and Minor), the calculation of the
+          final CGPA shall be as per Clauses R16.2.6 and R16.2.7.
+
+R15.5.4   In the consolidated grade sheet, the CGPA earned shall be converted
+          into percentage of marks as follows:
+
+                       Percentage of Marks = CGPA X 10
+
+R15.5.5   The Grade Point Average (GPA) for each semester will be included in
+          the grade card or sheet, even if a student fails in one or more courses
+          within the semester. In such cases, the GPA will be calculated based on
+          the grades obtained in the courses the student has passed. Similarly, the
+          Cumulative Grade Point Average (CGPA) will also be calculated based
+          on the grades obtained in all the courses the student has passed up to and
+          including the current semester.
+
+R15.6     REVALUATION OF ANSWER SCRIPTS
+
+          A candidate can apply for photocopy of his / her semester examination
+          answer paper in a theory course, within 2 weeks from the declaration of
+          results, on payment of a prescribed fee through proper application to the
+          Controller of Examination through the Head of Department. Students can
+          see the valued answer scripts of the semester examinations and can get
+          it retotaled / revalued by the faculty concerned. Based on the
+          recommendation, the candidate can register for the revaluation through
+          proper application to the Controller of Examination.
+
+
+
+
+                                        54
+          The answer sheets will be revaluated and the results will be intimated to
+          the student concerned through the Head of the Department. Revaluation
+          is not permitted for practical courses, project phase 1 and phase 2 and
+          Employability Enhancement Courses.
+
+R15.7     SUPPLEMENTARY EXAMINATION
+
+R15.7.1   Only those Students who obtained "RA" grade and have prescribed
+          attendance and above in a course are eligible to apply for Supplementary
+          Examination.
+
+R15.7.2   Registration shall be made for supplementary examination within the
+          stipulated period from the date of notification and the examination fee to
+          be paid is double the amount of fee prescribed for the regular end
+          semester examination.
+
+R15.7.3   A student is eligible for only one Supplementary Examination for any
+          course. No second chance will be given. In case a student fails in the
+          Supplementary Examination, he / she must rewrite the examination along
+          with the regular stream in the subsequent semesters, as and when it is
+          conducted.
+
+R15.7.4   Students who miss the end-semester examination due to valid medical or
+          some other reason may be permitted with the consent of the Dean
+          (Academic Courses) to appear for the supplementary examination(s)
+          subject to fulfilling of attendance requirement (vide Clause R7).
+
+R15.7.5   Supplementary Examinations will be conducted during the first two
+          weeks after the commencement of the next semester.
+
+R15.7.6   Supplementary examination will be considered as an alternative to the
+          end-semester examination only. The continuous assessment marks
+          already secured by the students will be considered for finalizing the
+          grade.
+
+
+
+                                        55
+R15.7.7   A minimum of 50 percent of marks prescribed for the end semester
+          examination should be scored in the supplementary examination(s) to
+          declare the result as have passed the course and acquired the relevant
+          number of credits.
+
+R16.      ELIGIBILITY FOR THE AWARD OF DEGREE
+
+R16.1     A student shall be declared to be eligible for the award of the B.Tech.
+          Degree provided the student has:
+
+            i.   Successfully gained the required number of total credits as
+                 specified in the curriculum corresponding to the programme
+                 within the stipulated duration.
+
+           ii.   Successfully completed the course requirements, appeared for
+                 the End Semester Examinations and passed all the courses
+                 prescribed in all the 8 semesters within a maximum duration of
+                 7 years reckoned from the commencement of the first semester
+                 / 6 years reckoned from the commencement of the third
+                 semester in case of lateral entry scheme to which the student
+                 was admitted.
+
+          iii.   Successfully passed any additional courses prescribed by the
+                 Dean (Academic Courses).
+
+          iv.    Successfully completed the NCC / NSS / NSO / YRC / RRC
+                 requirements.
+
+           v.    No disciplinary action is pending against the student.
+
+          vi.    The award of Degree must have been approved by the
+                 Academic Council of the Institution.
+
+
+
+
+                                       56
+R16.2     Classification of the Degree Awarded
+
+Award of “Honours” Qualification
+
+R16.2.1   “Honours” Degree shall be awarded to well performing UG students on
+          earning the specific additional credits as prescribed under vide Clause
+          R4.18.1 and satisfied the requirement (vide Clause R4.18.2) and after
+          satisfying the relevant degree award conditions.
+
+R16.2.2   Students should have obtained a CGPA >= 8.0 at the end of the eighth
+          semester and have satisfied additional credits consideration prescribed
+          for “Honours” degree.
+
+R16.2.3   The Dean (Academic Courses) of the Institution shall submit the list of
+          students who are eligible for the award of the “Honours” degree along
+          with the total credits earned by each student to the Office of the Controller
+          of Examinations.     The list shall be validated by the Mentors of the
+          students under consideration and endorsed by the Head of the
+          Department.
+
+R16.2.4   If the students registered for “Honours” qualification cannot meet the
+          requirement as stated (vide Clauses R16.2.1 and R16.2.2), they shall not
+          be considered for the award of “Honours” degree. However, they shall
+          be awarded only a B.Tech. degree or B.Tech. degree with specialization
+          if the students have opted for additional courses in the same domain.
+
+R16.2.5   Students may continue or deregister from the “Honours” qualification if
+          they do not meet the specified requirement.
+
+R16.2.6   If a student decides not to opt for Honours, after completing a certain
+          number of additional courses, such additional courses studied shall be
+          considered instead of the Professional Elective Courses which are part of
+          the Curriculum.
+
+
+
+
+                                         57
+R16.2.7   If the student has studied a greater number of such courses than the
+          number of Professional Elective courses required as per the curriculum,
+          the courses with higher grades shall be considered for the calculation of
+          CGPA. Remaining courses shall be printed in the grade sheet; however,
+          they will not be considered for calculation of CGPA and the same shall
+          be indicated in a foot note appropriately.
+
+R16.2.8   If the student has failed in the additional courses or faced shortage of
+          attendance, they will not be printed in the grade sheet and will not be
+          considered for CGPA calculation and classification of degree.
+
+R16.2.9   The “Honours” qualification shall be suffixed to the respective degrees
+          and shown in the degree certificate as a recognition of higher
+          achievement by the student concerned.
+
+R16.2.10 All the students fulfilling the requirement (vide Clauses R16.2.1 and
+          R16.2.2) shall be entitled to receive the transcripts indicating both their
+          achievements.
+
+Award of “Minor” Qualification
+
+R16.2.11 All the students who successfully complete the additional courses as
+          prescribed i.e., specialization in a specific domain offered by other
+          departments and satisfied the requirement shall be eligible for the award
+          of “Minor” degree.
+
+R16.2.12 The Dean (Academic Courses) of the Institution shall submit the list of
+          students who are eligible for the award of the “Minor” degree along with
+          the total credits earned by each student to the Office of the Controller of
+          Examinations.
+
+          The list shall be validated by the Mentors of the students under
+          consideration and endorsed by the Head of the Department.
+
+
+
+
+                                        58
+R16.2.13 If a student decides not to opt for a Minor degree, after completing a
+           certain number of additional courses, such additional courses studied
+           shall be considered instead of the Open Elective Courses which are part
+           of the Curriculum.
+
+R16.2.14 If the student has studied a greater number of such courses than the
+           number of Open Elective courses required as per the curriculum, the
+           courses with higher grades shall be considered for the calculation of
+           CGPA. Remaining courses shall be printed on the grade sheet; however,
+           they will not be considered for calculation of CGPA and the same shall
+           be indicated in a foot note appropriately.
+
+R16.2.15 If the student has failed in the additional courses or faced shortage of
+           attendance, they will not be printed in the grade sheet and will not be
+           considered for CGPA calculation and classification of degree.
+
+Award of B.Tech. Degree with Specialization
+
+R16.2.16 All the students who successfully complete the additional courses as
+           prescribed, which are in the same programme domain (vertical) and
+           satisfy the requirement shall be eligible for the award of B.Tech. degree
+           with Specialization in that domain.
+
+R16.2.17 The Dean (Academic Courses) of the Institution shall submit the list of
+           students who are eligible for the award of the B.Tech. degree with
+           specialization along with the total credits earned by each student to the
+           Office of the Controller of Examinations. The list shall be validated by
+           the Mentors of the students under consideration and endorsed by the Head
+           of the Department.
+
+R16.2.18 If a student decides not to opt for specialization, after completing a certain
+           number of additional courses, such additional courses studied shall be
+           considered instead of the Professional Elective / Open Elective Courses
+           which are part of the Curriculum.
+
+
+
+                                          59
+R16.2.19 If the student has studied a greater number of such courses than the
+          number of Professional Elective / Open Elective courses required as per
+          the curriculum, the courses with higher grades shall be considered for
+          the calculation of CGPA. Remaining courses shall be printed on the grade
+          sheet; however, they will not be considered for calculation of CGPA and
+          the same shall be indicated in a foot note appropriately.
+
+R16.2.20 If the student has failed in the additional courses or faced shortage of
+          attendance, they will not be printed in the grade sheet and will not be
+          considered for CGPA calculation and classification of degree.
+
+First Class with Distinction
+
+R16.2.21 A student who satisfies the following conditions shall be declared to
+          have passed the examination in First class with Distinction:
+
+   i)     Should have passed the examination in all the courses of all the eight
+          semesters in first appearance within five years (four years in case of
+          lateral entry students), which includes authorized break of study of one
+          year. Withdrawal from examination (vide Clause R18) will not be
+          construed as an appearance.
+
+   ii)    Should have secured a CGPA of not less than 8.00.
+
+   iii)   Should not have been prevented from writing end semester examination
+          due to lack of attendance in any of the courses.
+
+          The authorized break of study (vide Clause R17) and withdrawal from
+          theexamination (vide Clause R18) will not be construed as an attempt.
+
+
+
+
+                                        60
+First Class
+
+R16.2.22 A student who satisfies the following conditions shall be declared to
+          have passed the examination in First class:
+
+   i)     Should have passed the examination in all the courses of all eight
+          semesters within five years (four years in case of lateral entry students),
+          which includes one year of authorized break of study (if availed) or
+          prevention from writing the End Semester Examination due to lack of
+          attendance (if applicable).
+
+   ii)    Should have secured a CGPA of not less than 6.50.
+
+          The authorized break of study (vide Clause R17) and withdrawal from
+          theexamination (vide Clause R18) will not be construed as an attempt.
+
+Second Class
+
+R16.2.23 All other students (not covered in Clauses R16.2.21 and R16.2.22) who
+          qualify for the award of the degree (vide Clause R16) shall be awarded
+          Second Class.
+
+R16.2.24 A student who is absent in the end semester examination in a course /
+          project work after having registered for the same shall be considered to
+          have appeared in that examination (except approved withdrawal from end
+          semester examinations as per Clause R18) for the purpose of
+          classification.
+
+R16.2.25 Student earned additional 20 credits as per Clause R4.18 but does not
+          satisfy the conditions mentioned in Clauses R16.2.1 or R16.2.2 shall not
+          be awarded B.Tech. (Honours). In such a case if the student becomes
+          eligible for first class, while computing with the Professional Elective /
+          Open Elective Courses with higher grades, the student shall be awarded
+          B.Tech. in First Class only.
+
+
+
+
+                                         61
+R17.    PROVISION FOR AUTHORISED BREAK OF STUDY
+
+R17.1   Break of Study shall be granted by the Dean (Academic Courses) only
+        once for valid reasons for a period of maximum one year during the entire
+        period of study of the degree programme.
+
+R17.2   Prescribed fee to the Institution should be paid during the “Break of
+        Study” period.
+
+R17.3   The student permitted to re-join after the break of study / prevention due
+        to lack of attendance, shall be governed by the Curriculum and
+        Regulations in force at the time of re-joining. If the Regulation is
+        changed, then, those students may have to take up additional courses as
+        prescribed by the Dean (Academic Courses).
+
+R17.4   Total number of credits to be earned by the student shall be more than or
+        equal to the total number of credits prescribed in the curriculum in force.
+        If the credit assigned for L T P of the courses are not same in two
+        Regulations under consideration, then equivalence shall be arrived as
+        per the credit assignment followed in the Regulations in force.
+
+R17.5   The authorized break of study (for a maximum of one year) will not be
+        counted for the duration specified for passing all the courses for the
+        purpose of classification. (vide Clause R16.2).
+
+R17.6   The total period for completion of the programme reckoned from, the
+        commencement of the first semester (third semester for Lateral Entry
+        Scheme) to which the candidate was admitted shall not exceed the
+        maximum period specified in Clause R5 irrespective of the period of
+        break of study in order that he / she may be eligible for the award of the
+        degree.
+
+R17.7   If any student is detained for lack of requisite attendance, progress and
+        good conduct, the period spent in that semester shall not be considered
+
+
+
+                                      62
+         as permitted “Break of Study” or “Withdrawal” (Clause R18) is not
+         applicable for this case.
+
+R17.8    In case there is any period of break of study more than the permitted
+         duration of break of study, the student shall be permitted to continue the
+         programme only if the approval is obtained from the Dean (Academic
+         Courses) through the concerned Head of the Department and Dean (FET)
+         before the end of the semester in which the student has taken break of
+         study.
+
+R17.9    If the student has not reported back to the department, after the break of
+         study, his / her name shall be deleted permanently from the Institution
+         enrollment and the same should be informed to his / her parents
+         immediately. Such students are entitled to seek permission from the
+         Executive Council to continue the programme.
+
+R17.10   If a student in Full Time mode wants to take up job / start-up /
+         entrepreneurship during the period of study, he / she shall apply for
+         authorized break of study for one year. The student shall take up the
+         assignment only after getting approval of the same by the Dean
+         (Academic Courses).
+
+R18.     PROVISION FOR WITHDRAWAL                      FROM        THE       END
+         SEMESTER EXAMINATIONS
+
+R18.1    A student may, for valid reasons (medically unfit / unexpected family
+         situation / Sports approved by the Director (Sports) and Head of the
+         Department) and on prior application, be granted permission to withdraw
+         from appearing for one examination of one course or two or more
+         consecutive examinations of different courses in the end semester
+         examination. Permission cannot be given to withdraw from the
+         examinations in a non-consecutive sequence.
+
+
+
+
+                                       63
+R18.2   Such withdrawal shall be permitted only once during the entire period of
+        study of the degree programme.
+
+R18.3   Withdrawal application is valid only if the student is otherwise eligible
+        to write the examination (vide Clause R7) and if it is made within 10
+        days prior to the commencement of the end semester examination and
+        recommended by the Head of the Department and Dean (FET) and
+        approved by the Dean (Academic Courses).
+
+R18.4   Notwithstanding the requirement of mandatory            10   days’ notice,
+        applications for withdrawal for special cases under extraordinary
+        conditions will be considered on the merit of the case.
+
+R18.5   Withdrawal shall not be construed as an appearance for the eligibility of
+        a student for First Class with Distinction. This provision is not applicable
+        to those who seek withdrawal during VIII semester.
+
+R18.6   Withdrawal from the end semester examination is NOT applicable to
+        arrear courses of previous semesters.
+
+R18.7   The student shall appear for the end semester examination with respect
+        to the withdrawn courses during the examination conducted in the
+        subsequent semester / supplementary examination in the same semester
+        and need not re-appear for the continuous assessment examination.
+
+R18.8   Withdrawal from the continuous assessment examination is not
+        permitted.
+
+R18.9   Withdrawal is not permitted to the student who has not satisfied the
+        conditions prescribed in Clause R7 as requirements for appearing in the
+        end semester examination.
+
+
+
+
+                                       64
+R19.    DISCIPLINE
+
+        The Institution reserves the right to cancel the admission of any student
+        and ask him / her to discontinue his / her studies at any stage of his / her
+        career on the grounds of unsatisfactory academic performance or
+        misbehavior and conduct.
+
+R19.1   Every student is required to observe discipline and decorous behaviour
+        both inside and outside the Institution and not to indulge in any activity
+        which will tend to bring down the prestige of the institution.
+
+R19.2   Any act of indiscipline of a student reported to the Dean (Academic
+        Courses) will be referred to a Discipline and Welfare Committee
+        constituted by the Vice Chancellor. The Committee will enquire into
+        the charges and recommend suitable punishment if the charges are
+        substantiated. The Vice Chancellor will consider the recommendation of
+        the Discipline and Welfare Committee for appropriate action.
+
+R19.3   If a student indulges in malpractice in any of the end semester
+        examination / continuous assessment tests, he / she shall be liable for
+        punitive action as prescribed by the institution from time to time.
+
+R19.4   Ragging of any dimension is a criminal and nonbailable offence in our
+        country. The current State and Central legislations provide for stringent
+        punishment, including imprisonment.
+
+        Once the involvement of a studentis established in ragging, the offending
+        student will be dismissed from the Institution and will not be admitted
+        into any other Institution.
+
+        Avenues also exist for collective punishment if individual cannot be
+        identified in this inhuman act. Every student of the Institution, along with
+        the parent, shall give an undertaking every year in this regard.
+
+
+
+
+                                       65
+R20.   REVISION OF REGULATIONS AND CURRICULUM
+
+       The Academic Council of the Institution reserves the right to revise,
+       amend or change the regulations, the curriculum, syllabus and the scheme
+       of examinations from time to time if found necessary and shall send the
+       recommendations to the Executive Council for approval.
+
+R21.   SPECIAL CASES
+
+       In the event of any clarification in the interpretation of the above
+       regulations, they shall be referred to the Standing Committee (Internal
+       members of the Academic Council). The Standing Committee will offer
+       suitable interpretation / clarification required for special case on such
+       references and get them ratified in the next meeting of the Academic
+       Council. The decision of the Academic Council is final.
+
+
+
+
+                                    66
+
